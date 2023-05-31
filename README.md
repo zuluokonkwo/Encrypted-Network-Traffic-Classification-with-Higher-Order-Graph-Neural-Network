@@ -36,6 +36,9 @@ Malware classification result
 
 # License
 If you are using our methodology, please cite our related research paper, as well as UNB's related research papers:
+
 [1]  Okonkwo, Zulu, Ernest Foo, Zhe Hou, Qinyi Li, and Zahra Jadidi. "Encrypted Network Traffic Classification with Higher Order Graph Neural Network."
+
 [2] Gerard Drapper Gil, Arash Habibi Lashkari, Mohammad Mamun, Ali A. Ghorbani (2016). Characterization of Encrypted and VPN Traffic Using Time-Related Features In Proceedings of the 2nd International Conference on Information Systems Security and Privacy(ICISSP 2016) , pages 407-414, Rome, Italy.
+
 [3] CTU-University The Stratosphere IPS Project Dataset. Https://stratosphereips.org/category/dataset.html,. (2016)
