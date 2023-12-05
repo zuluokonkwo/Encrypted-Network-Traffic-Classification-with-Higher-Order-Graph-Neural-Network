@@ -13,9 +13,9 @@ from torch.utils.data import WeightedRandomSampler
 dataset = dataset.shuffle()
 
 #Split the dataset into train and test
-train_dataset = dataset [:13886]
-test_dataset = dataset [13886:16337]
-
+train_dataset = dataset [:]   #train_dataset split
+test_dataset = dataset [:]    #test_dataset split
+  
 #Review the training versus test data
 print(f'Number of training graphs: {len(train_dataset)}')
 print(f'Number of test graphs: {len(test_dataset)}')
